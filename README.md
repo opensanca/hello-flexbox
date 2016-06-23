@@ -43,11 +43,11 @@ O minicurso Flexbox será desenvolvido em forma de palestra e estudo dirigido, e
 - Aplicação dos conceitos de flexbox na criação de um layout de componentes
 
 ### Helpers / Others
-[CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[Web Flow](https://flexbox.webflow.com/)
-[Video](http://flexbox.io/)
-[Froggy Flexbox](http://flexboxfroggy.com/)
+- [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Web Flow](https://flexbox.webflow.com/)
+- [Video](http://flexbox.io/)
+- [Froggy Flexbox](http://flexboxfroggy.com/)
 
 
 # License
-MIT | Opensanca 2016
+MIT | [Opensanca 2016](https://github.com/opensanca/hello-flexbox/blob/master/LICENSE)
