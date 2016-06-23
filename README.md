@@ -48,6 +48,7 @@ O minicurso Flexbox será desenvolvido em forma de palestra e estudo dirigido, e
 - [Video](http://flexbox.io/)
 - [Froggy Flexbox](http://flexboxfroggy.com/)
 - [Flexbox Bootstrap - v4](http://v4-alpha.getbootstrap.com/getting-started/flexbox/)
+- [Guide pt-br](http://pt-br.learnlayout.com/flexbox.html)
 
 
 # License
