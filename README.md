@@ -23,7 +23,6 @@ O minicurso Flexbox será desenvolvido em forma de palestra e estudo dirigido, e
 -  Finalidades
 -  Características
 -  Suporte
-  
 -  2.Propriedades CSS para o flex container
 -  display
 -  flex-direction
@@ -32,7 +31,6 @@ O minicurso Flexbox será desenvolvido em forma de palestra e estudo dirigido, e
 -  justify-content
 -  align-items
 -  align-content
-  
 -  3.Propriedades CSS para os flex items
 -  order
 -  flex-grow
@@ -40,8 +38,16 @@ O minicurso Flexbox será desenvolvido em forma de palestra e estudo dirigido, e
 -  flex-basis
 -  flex
 -  align-self
-  
 -  4.Centrar e alinhar elementos
-  
 -  5.Criação de layout com flexbox
-   Aplicação dos conceitos de flexbox na criação de um layout de componentes
+- Aplicação dos conceitos de flexbox na criação de um layout de componentes
+
+### Helpers / Others
+[CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Web Flow](https://flexbox.webflow.com/)
+[Video](http://flexbox.io/)
+[Froggy Flexbox](http://flexboxfroggy.com/)
+
+
+# License
+MIT | Opensanca 2016
