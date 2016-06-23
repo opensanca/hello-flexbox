@@ -1,3 +1,5 @@
+![what flexbox](http://flexbox.io/images/share.png)
+
 # Workshop - Hello Flexbox!
 
 ### Proposta:
