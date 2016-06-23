@@ -32,7 +32,7 @@ O minicurso Flexbox será desenvolvido em forma de palestra e estudo dirigido, e
 -  justify-content
 -  align-items
 -  align-content
--  
+  
 -  3.Propriedades CSS para os flex items
 -  order
 -  flex-grow
